@@ -1,0 +1,66 @@
+mob pass code: 969636
+pri code: 363636
+
+
+suppoting doc folder missing in shiv structure
+
+
+THINGD TO DISCUSS:
+PDF FILLABLE CHECKBOX IS OK
+FIXED DEPENDENTS IN BENEFICIARY TABLE
+TABLE STRCUTURE FOR PART4 I140
+
+
+INTERVIEW PREPARATION
+
+MIDDLEWARES
+WSGI
+DB SETTINGS
+
+
+
+F:/PROJECTS/JK_SOFT/GIT IMMILYTICS/noticerename/
+
+
+
+180 days condition and new color coding  for pass exp tab only or for doc exp tab also
+
+file pendin cases .. active benefi condtion is added
+
+case filed date =  date value means .. not empty cells to be considered
+
+
+CaseFiledDate from where..
+filed date or petition_application_filed
+
+solu from filed date
+
+remove blank as red
+
+process reference 
+please select
+
+duplica rec in passpo tab document tab
+
+true or false
+
+
+in case table curretn process type or process type
+
+####################
+
+Labor Cert Special Handling extra condition for 
+
+
+Charter PERM Report - Approval of PERM Memo received in perm report
+
+
+organization_group_id	organization_group_name	petitioner_company_id	petitioner_company_name	petitioner_company_of_primary_beneficiary	beneficiary_id	fn_case_id	beneficiary_type
+NULL	NULL	625365045	Comcast Cable Communications, LLC		626037611	413133	Primary
+
+
+organization_group_id	organization_group_name	petitioner_company_id	petitioner_company_name	petitioner_company_of_primary_beneficiary	beneficiary_id	fn_case_id	beneficiary_type
+100000590	Charter Group of Companies	625365123	Charter Communications, Inc.	NULL	626037780	416169	Primary
+
+
+abeneficiary active

@@ -1,0 +1,32 @@
+the generated file is gonna be a csv file.
+
+condition:
+
+1st sheet:
+all active (both dep and primary) and 
+
+where type = primary and status = retired /inactive, and hire date is in last 3 yrs 
+
+note: petioner of prim beneficiary and primary ben id will be empty for primary records.. see to it
+
+2nd sheet:
+case data
+
+where
+case open date = last 3 yrs
+or
+case filed date =  last 3 yrs
+or (primary process status = open
+and ben is active)
+
+
+and 
+all active and inactive (both dep and primary) 
+and
+final action = granted or denied
+and
+and final action date = last 2 yrs. 
+
+
+remarks: while proj done:
+final act date col added in case table and mapped

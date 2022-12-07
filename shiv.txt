@@ -1,0 +1,44 @@
+Comcast Status Rpt
+Act Bnf Tab - Priority Date-Note - NP done check works
+
+
+
+Open Cases - PERM Tab -- PWD Expiration Date done check not wirk
+
+Filed & Pending Tab - delete PERM Memo sent to Employer	,Prevailing Wage 
+Determination request submitted to DOL,	Prevailing Wage Determination issued by DOL,	PWD expiration date	,Recruitment instructions sent to company.
+ done check works
+
+Charter Active Employee Report - Change I94 Expires to I-94 Expiration Date done check works
+
+
+Charter - PERM Report - PWD expiration date not populating . Plus change field name to PWD Expiration Date done check not work check
+
+KILP Internal Report - Paralegal Active List - 
+I94 Expires not populating. done check
+
+Change output field name to I-94 Expiration Date
+Process Id Values issue works
+
+Application Filed (Column AD) - Check FROM WHERE WE TAKE
+
+Form I-129 Filed with USCIS (Column AE) - Check WORKS
+ABOVE
+TAKEN FROM form_i129_filed_with_cis IN SRC FILE
+
+Charter PERM Report - Replace Column Header "Paralegal" with "Process Id"
+
+KILP Internal Report - PERM Report - 
+I94 Expires not populating. WORKS Check
+
+done Change I94 Expires field name to I-94 Expiration Date WORKS
+
+
+Process Id Values issue
+Follow up with FN for requested information not populating
+
+done check
+
+
+kiilp paralegal pop for visa priority note
+reference
